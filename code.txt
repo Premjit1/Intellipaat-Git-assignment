@@ -1,0 +1,3 @@
+git config --global user.name "Premjit"
+
+git config --global user.email "premjitsengupta44@gmail.com"
